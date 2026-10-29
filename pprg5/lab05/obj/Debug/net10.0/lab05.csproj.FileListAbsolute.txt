@@ -1,0 +1,14 @@
+Z:\pprg\pprg5\lab05\bin\Debug\net10.0\lab05.exe
+Z:\pprg\pprg5\lab05\bin\Debug\net10.0\lab05.deps.json
+Z:\pprg\pprg5\lab05\bin\Debug\net10.0\lab05.runtimeconfig.json
+Z:\pprg\pprg5\lab05\bin\Debug\net10.0\lab05.dll
+Z:\pprg\pprg5\lab05\bin\Debug\net10.0\lab05.pdb
+Z:\pprg\pprg5\lab05\obj\Debug\net10.0\lab05.GeneratedMSBuildEditorConfig.editorconfig
+Z:\pprg\pprg5\lab05\obj\Debug\net10.0\lab05.AssemblyInfoInputs.cache
+Z:\pprg\pprg5\lab05\obj\Debug\net10.0\lab05.AssemblyInfo.cs
+Z:\pprg\pprg5\lab05\obj\Debug\net10.0\lab05.csproj.CoreCompileInputs.cache
+Z:\pprg\pprg5\lab05\obj\Debug\net10.0\lab05.dll
+Z:\pprg\pprg5\lab05\obj\Debug\net10.0\refint\lab05.dll
+Z:\pprg\pprg5\lab05\obj\Debug\net10.0\lab05.pdb
+Z:\pprg\pprg5\lab05\obj\Debug\net10.0\lab05.genruntimeconfig.cache
+Z:\pprg\pprg5\lab05\obj\Debug\net10.0\ref\lab05.dll
